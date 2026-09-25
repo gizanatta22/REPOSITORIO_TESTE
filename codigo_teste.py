@@ -5,3 +5,5 @@ b = 22
 soma= x+b
 
 print("somei")
+
+print('tchau pessoal')
